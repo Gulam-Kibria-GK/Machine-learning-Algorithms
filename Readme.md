@@ -10,7 +10,6 @@
 * [decision_tree](https://github.com/GK-CPP/Machine-learning-Algorithms/blob/master/decision_tree.ipynb)
 
 
-
 ============================================== </br>
 Name:     Gulam Kibria Chowdhury</br>
 Study:      CSE, NEUB</br>
