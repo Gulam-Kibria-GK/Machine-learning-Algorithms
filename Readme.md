@@ -1,5 +1,4 @@
-# Machine Learning Algorithms – From Scratch
-
+# Machine Learning Algorithms
 This repository contains practical Jupyter Notebook implementations of foundational Machine Learning algorithms. The code is designed to help learners understand how these algorithms work by implementing them manually, from scratch, without relying heavily on machine learning libraries.
 
 
